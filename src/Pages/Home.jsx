@@ -6,7 +6,7 @@ import OurproductPolicy from '../Componentes/OurproductPolicy'
 import Newsletterbox from '../Componentes/Newsletterbox'
 const Home = () => {
   return (
-    <div >Home
+    <div >
     <Hero/>
     <LatestCollection/>
     <BestSeller/>
