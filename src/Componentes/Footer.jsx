@@ -10,10 +10,9 @@ function Footer() {
         <img src={assets.logo} className="mb-5 w-30" alt="" />
 
         <p className='w-full md:w-2/3 text-gray-600'>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-          Recusandae exercitationem in maxime quae amet unde ipsam
-          deserunt quaerat fuga tempore. Unde inventore earum tempora
-          est. Mollitia voluptate et porro ex.
+           StyleNext brings you the latest fashion and lifestyle products
+           at affordable prices. Our mission is to provide a smooth,
+           reliable, and enjoyable shopping experience for every customer.
         </p>
       </div>
 

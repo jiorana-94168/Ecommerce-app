@@ -25,7 +25,7 @@ const LatestCollection = () => {
     console.log(products)
 
     return (
-        <div className="my-10 justify-center items-center">
+        <div className="my-10 flex flex-col  items-center">
 
             {/* Section Title */}
             <Title text1="Latest " text2="Collection" />

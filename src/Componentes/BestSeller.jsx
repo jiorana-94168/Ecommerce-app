@@ -26,12 +26,13 @@ function BestSeller() {
         <div className='my-2'>
 
             {/* Section Heading */}
-            <div className='text-center text-3xl py-8'>
+            <div className=' flex flex-col items-center  text-3xl py-8'>
                 <Title text1={"BEST"} text2={"SELLERS"} />
 
                 {/* Section Description */}
-                <p className='w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                <p className='w-3/4  text-center m-auto text-xs sm:text-sm md:text-base text-gray-600'>
+                          Discover our most popular products loved by customers.
+
                 </p>
             </div>
 
